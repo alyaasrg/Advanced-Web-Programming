@@ -217,24 +217,51 @@
 
     <div class="heroe">
 
-        <h1>Selamat Datang di Website "Alya Khairani Siregar"</h1>
+        <h1>My Education</h1>
 
-        <h2>ini digunakan untuk menunjukkan kompetensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code mengunakan sistem kontrol versi GIT</h2>
+		<table border="1" cellspasing="0">
+			<tr bgcolor="#9195F6" style="color:white;">
+				<td width="50px" align="center">No</td>
+				<td width="200px" align="center">Tingkat</td>
+				<td width="600px" align="center">Nama Universitas</td>
+			</tr>
 
+			<tr >
+				<td >1</td>
+				<td >TK</td>
+				<td >TK Dharmawanita - Kota Medan</td>
+			</tr>
+
+			<tr >
+				<td >2</td>
+				<td >SD</td>
+				<td >SD Dhamawanita - Kota Medan</td>
+			</tr>
+
+			<tr >
+				<td >3</td>
+				<td >SMP</td>
+				<td >SMP Negeri 1 - Kota Medan</td>
+			</tr>
+			
+			<tr >
+				<td >4</td>
+				<td >SMA</td>
+				<td >SMA Negeri 1 - Kota Medan</td>
+			</tr>
+			
+			<tr >
+				<td >5</td>
+				<td >Kuliah</td>>
+				<td ><a href="https://www.widyatama.ac.id/"> D3 Sistem Informasi - Widyatama</a></td>
+			</tr>
+		</table>
     </div>
 
 </header>
 
 <!-- CONTENT -->
 
-<section>
-
-    <h1>About this page</h1>
-
-    <p>Halaman ini merupakan halaman selamat datang</p>
-
-
-</section>
 
 
 <!-- FOOTER: DEBUG INFO + COPYRIGHTS -->

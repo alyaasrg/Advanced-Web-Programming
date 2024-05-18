@@ -217,9 +217,13 @@
 
     <div class="heroe">
 
-        <h1>Selamat Datang di Website "Alya Khairani Siregar"</h1>
+        <h1>About Me</h1>
 
-        <h2>ini digunakan untuk menunjukkan kompetensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code mengunakan sistem kontrol versi GIT</h2>
+        <h2>
+			Nama saya <b>Alya Khairani Siregar</b>,  
+                Saya berasal dari Kota Medan, seorang mahasiswa
+                Sekarang saya tinggal di Kota Jakarta dan kuliah di Kota Bandung
+		</h2>
 
     </div>
 
@@ -227,14 +231,6 @@
 
 <!-- CONTENT -->
 
-<section>
-
-    <h1>About this page</h1>
-
-    <p>Halaman ini merupakan halaman selamat datang</p>
-
-
-</section>
 
 
 <!-- FOOTER: DEBUG INFO + COPYRIGHTS -->
